@@ -45,10 +45,10 @@
   <img src="./metrics.isocalendar.svg" alt="Calendrier de contributions" width="100%">
 </div>
 
-<div align="center">
+<p align="center">
   <img src="./metrics.languages.svg" alt="Langages les plus utilisés" width="49%">
   <img src="./metrics.terminal.svg" alt="Habitudes de code" width="49%">
-</div>
+</p>
 
 ## liens
 
